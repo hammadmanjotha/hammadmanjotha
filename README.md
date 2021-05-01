@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hammadmanjotha
 - 👀 I’m interested in HTML,CSS,Javascript,React,Node Js and Firebase
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React Js
+- 💞️ I’m looking to collaborate on Some Usefull Projects
+- 📫 How to reach me urdutech786@gmail.com
 
 <!---
 hammadmanjotha/hammadmanjotha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
